@@ -3,7 +3,7 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "[WASSA 2022] Emotion Analysis of Japanese SNS Posts About Vaccines and Comparison to Vaccinations to Japan.ipynb",
+      "name": "[WASSA 2022]  Emotion Analysis of Writers and Readers of Japanese Tweets on Vaccinations.ipynb",
       "provenance": [],
       "collapsed_sections": [],
       "toc_visible": true
@@ -21,7 +21,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "# Emotion Analysis of Japanese SNS Posts About Vaccines and Comparison to Vaccinations to Japan\n",
+        "# Emotion Analysis of Writers and Readers of Japanese Tweets on Vaccinations\n",
         "\n",
         "Patrick Ramos\n",
         "\n",
